@@ -1,5 +1,3 @@
-# Kotlin
-
 ![](assets/img/kotlin-logo.png)
 
 ---
