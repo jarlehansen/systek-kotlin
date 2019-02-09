@@ -1,3 +1,1 @@
-git add .
-git commit -m "updated"
-git push
+while true; do git add .; git commit -m "updated"; git push; done
