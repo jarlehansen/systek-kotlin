@@ -2,7 +2,7 @@
 
 ---
 
-![](assets/img/java.jpg)
+![](assets/img/java.jpg&size=50%)
 ![](assets/img/lombok.jpg)
 ![](assets/img/kotlin.jpg)
 
