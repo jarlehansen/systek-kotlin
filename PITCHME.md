@@ -2,6 +2,10 @@
 
 ---
 
+![](assets/img/java.jpg)
+![](assets/img/lombok.jpg)
+![](assets/img/kotlin.jpg)
+
 ## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
