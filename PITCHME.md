@@ -1,4 +1,6 @@
-# Let's Get Started
+# Kotlin
+
+![](assets/img/kotlin-logo.png)
 
 ---
 
