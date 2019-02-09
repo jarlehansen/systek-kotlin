@@ -1,1 +1,1 @@
-while :; do clear; git add .; git commit -m "updated"; git push; sleep 3; done
+while :; do clear; git add .; git commit -m "updated"; git push; sleep 30; done
