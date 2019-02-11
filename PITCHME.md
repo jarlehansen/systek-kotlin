@@ -18,15 +18,15 @@
 ### Funksjonelt / objekt-orientert?
 @snapend
 
-#### 1
+**1**
 ```
 f(o)
 ```
 
-#### 2
-````
+**2**
+```
 o.f();
-````
+```
 
 ---
 @snap[north span-100]
