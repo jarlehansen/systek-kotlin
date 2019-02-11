@@ -52,6 +52,6 @@
 ### Referanser
 @snapend
 
-[FP vs OO](https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html)
-[Object Oriented Programming vs. Functional Programming](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
+* [FP vs OO](https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html)
+* [Object Oriented Programming vs. Functional Programming](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
 
