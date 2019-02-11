@@ -18,21 +18,21 @@
 @snapend
 
 ---
-@snap[north]
+@snap[north span-100]
 ### Hvorfor Kotlin?
 @snapend
 
 ---
-@snap[north]
+@snap[north span-100]
 ### Hva brukes Kotlin til?
 @snapend
 
 ---
-@snap[north]
+@snap[north span-100]
 ### Koltin i Systek
 @snapend
 
 ---
-@snap[north]
+@snap[north span-100]
 ## Oslo Kotlin meetup
 @snapend
