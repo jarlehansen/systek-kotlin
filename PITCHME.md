@@ -26,6 +26,14 @@
 `o.f()`
 @snapend
 
+* OOP says that **bringing together data and its associated behavior in a single location** (called an "object") makes it easier to understand how a program works.
+* FP says that data and behavior are distinctively different things and should be **kept separate for clarity**. In a functional program, every time you call a particular function with a particular value, you will get the **same result**.
+
+@span[text-05]
+* *https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html*
+* *https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming*
+@spanend
+
 ---
 @snap[north span-100]
 ### Hvorfor Kotlin?
