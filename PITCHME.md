@@ -19,7 +19,7 @@
 @snapend
 
 * OOP: **bringing together data and its associated behavior in a single location**  makes it easier to understand how a program works. `o.f()`
-* FP: data and behavior are distinctively different things and should be **kept separate for clarity**. In a functional program, every time you call a particular function with a particular value, you will get the **same result**. `f(o)`
+* FP: data and behavior are distinctively different things and should be **kept separate for clarity**. Every time you call a particular function with a particular value, you will get the **same result**. `f(o)`
 
 @span[text-05]
 * *https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html*
