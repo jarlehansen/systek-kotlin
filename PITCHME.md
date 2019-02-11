@@ -13,21 +13,26 @@
 * 1.0 versjonen ble sluppet i starten av 2016
 
 ---
-@transition[concave]
+@snap[north]
 # Funksjonelt eller objekt-orientert?
+@snapend
 
 ---
-@transition[concave]
+@snap[north]
 # Hvorfor Kotlin?
+@snapend
 
 ---
-@transition[concave]
+@snap[north]
 # Hva brukes Kotlin til?
+@snapend
 
 ---
-@transition[concave]
+@snap[north]
 # Koltin i Systek
+@snapend
 
 ---
-@transition[concave]
+@snap[north]
 # Oslo Kotlin meetup
+@snapend
