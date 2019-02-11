@@ -7,7 +7,7 @@
 ---
 
 # Bakgrunn
-@transition[zoom-in fade-out]
+@transition[concave]
 
 * Arbeidet med Kotlin startet i 2010 hos JetBrains
 * 1.0 versjonen ble sluppet i starten av 2016
