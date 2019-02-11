@@ -5,7 +5,7 @@
 ---?image=assets/img/kart2.png&size=75% auto
 
 ---
-@snap[north]
+@snap[north span-100]
 ### Bakgrunn
 @snapend
 
@@ -13,7 +13,7 @@
 * 1.0 versjonen ble sluppet i starten av 2016
 
 ---
-@snap[north]
+@snap[north span-100]
 ### Funksjonelt eller objekt-orientert?
 @snapend
 
