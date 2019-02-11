@@ -2,9 +2,11 @@
 
 ---
 
-![](assets/img/java.jpg&size=50%)
-![](assets/img/lombok.jpg)
-![](assets/img/kotlin.jpg)
+![](assets/img/kart1.png)
+
+---
+
+![](assets/img/kart2.png)
 
 ## Add Some Slide Candy
 
