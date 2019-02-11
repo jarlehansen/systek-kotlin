@@ -2,7 +2,7 @@
 
 ---
 
-![](assets/img/kart1.png)
+![](assets/img/kart1.png?size=100%)
 
 ---
 
