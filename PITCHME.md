@@ -24,9 +24,11 @@ f(o)
 ```
 
 **2**
+@snap[center span-50]
 ```
 o.f();
 ```
+@snapend
 
 ---
 @snap[north span-100]
