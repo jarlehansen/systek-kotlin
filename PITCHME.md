@@ -6,4 +6,24 @@
 
 ---
 
-# 
+# Bakgrunn
+
+---
+
+# Funksjonelt eller objekt-orientert?
+
+---
+
+# Hvorfor Kotlin?
+
+---
+
+# Hva brukes Kotlin til?
+
+---
+
+# Koltin i Systek
+
+---
+
+# Oslo Kotlin meetup
