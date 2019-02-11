@@ -1,12 +1,8 @@
 ![](assets/img/kotlin-logo.png)
 
----?image=assets/img/kart1.png&size=contain
+---?image=assets/img/kart1.png&size=100%
 
----?image=assets/img/kart2.png&size=contain
-
-## Add Some Slide Candy
-
-![](assets/img/presentation.png)
+---?image=assets/img/kart2.png&size=100%
 
 ---
 @title[Customize Slide Layout]
