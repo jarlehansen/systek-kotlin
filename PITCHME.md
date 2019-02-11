@@ -24,8 +24,7 @@
   * **`f(o)`**
 
 @snap[text-05]
-*https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html*
-*https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming*
+
 @snapend
 
 ---
@@ -45,5 +44,13 @@
 
 ---
 @snap[north span-100]
-## Oslo Kotlin meetup
+### Oslo Kotlin meetup
 @snapend
+
+---
+@snap[north span-100]
+### Referanser
+
+* *https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html*
+* *https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming*
+
