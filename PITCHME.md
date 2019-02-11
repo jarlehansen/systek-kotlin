@@ -1,10 +1,8 @@
 ![](assets/img/kotlin-logo.png)
 
----
+---?image=assets/img/kart1.png&size=cover
 
-![](assets/img/kart1.png?size=cover)
-
----?assets/img/kart2.png?size=cover
+---?image=assets/img/kart2.png&size=cover
 
 ## Add Some Slide Candy
 
