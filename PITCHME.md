@@ -14,7 +14,7 @@
 
 
 ---
-@snap[north span-100]
+@snap[span-100]
 ### Funksjonelt / objekt-orientert?
 @snapend
 
@@ -50,6 +50,7 @@
 ---
 @snap[north span-100]
 ### Referanser
+@snapend
 
 * *https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html*
 * *https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming*
