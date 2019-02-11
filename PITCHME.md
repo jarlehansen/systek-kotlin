@@ -18,12 +18,10 @@
 ### Funksjonelt / objekt-orientert?
 @snapend
 
-**1**
-```
-f(o)
-```
+@snap[text-center span-100]
+`f(o)`
+@snapend
 
-**2**
 @snap[text-center span-100]
 `o.f()`
 @snapend
