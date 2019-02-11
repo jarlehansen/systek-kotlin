@@ -15,7 +15,7 @@
 ---
 @snap[north span-100]
 ### Funksjonelt eller
-  objekt-orientert?
+## objekt-orientert?
 @snapend
 
 ---
