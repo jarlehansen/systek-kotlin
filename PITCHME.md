@@ -6,8 +6,10 @@
 
 ---
 @transition[concave]
+
 @snap[north]
 # Bakgrunn
+@snapend
 
 * Arbeidet med Kotlin startet i 2010 hos JetBrains
 * 1.0 versjonen ble sluppet i starten av 2016
