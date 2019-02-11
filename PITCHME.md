@@ -24,7 +24,7 @@ f(o)
 ```
 
 **2**
-@snap[midpoint span-50]
+@snap[text-center span-50]
 ```
 o.f();
 ```
