@@ -24,7 +24,7 @@ f(o)
 ```
 
 **2**
-@snap[text-center span-50]
+@snap[text-center span-100]
 `o.f()`
 @snapend
 
