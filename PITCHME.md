@@ -21,7 +21,7 @@
 @snap[text-center span-100]
 `f(o)`
 @snapend
-
+  
 @snap[text-center span-100]
 `o.f()`
 @snapend
