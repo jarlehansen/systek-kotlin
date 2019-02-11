@@ -24,8 +24,8 @@
   * **`f(o)`**
 
 @snap[text-05]
-* *https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html*
-* *https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming*
+*https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html*
+*https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming*
 @snapend
 
 ---
