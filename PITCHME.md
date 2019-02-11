@@ -12,10 +12,21 @@
 * Arbeidet med Kotlin startet i 2010 hos JetBrains
 * 1.0 versjonen ble sluppet i starten av 2016
 
+
 ---
 @snap[north span-100]
 ### Funksjonelt / objekt-orientert?
 @snapend
+
+#### 1
+```
+f(o)
+```
+
+#### 2
+````
+o.f();
+````
 
 ---
 @snap[north span-100]
