@@ -19,7 +19,7 @@
 @snapend
 
 @snap[text-center span-100]
-`f(o)`
+@size[3.5em](`f(o)`)
 @snapend
 <br>
 @snap[text-center span-100]
