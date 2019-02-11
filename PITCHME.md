@@ -6,6 +6,7 @@
 
 ---
 @transition[concave]
+@snap[north]
 # Bakgrunn
 
 * Arbeidet med Kotlin startet i 2010 hos JetBrains
