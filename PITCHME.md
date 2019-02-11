@@ -1,8 +1,8 @@
 ![](assets/img/kotlin-logo.png)
 
----?image=assets/img/kart1.png&size=80%
+---?image=assets/img/kart1.png&size=80% auto
 
----?image=assets/img/kart2.png&size=80%
+---?image=assets/img/kart2.png&size=80% auto
 
 ---
 @title[Customize Slide Layout]
