@@ -5,8 +5,6 @@
 ---?image=assets/img/kart2.png&size=75% auto
 
 ---
-@transition[concave]
-
 @snap[north]
 # Bakgrunn
 @snapend
