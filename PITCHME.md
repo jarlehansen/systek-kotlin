@@ -6,7 +6,7 @@
 
 ---
 @snap[north]
-# Bakgrunn
+## Bakgrunn
 @snapend
 
 * Arbeidet med Kotlin startet i 2010 hos JetBrains
@@ -14,25 +14,25 @@
 
 ---
 @snap[north]
-# Funksjonelt eller objekt-orientert?
+## Funksjonelt eller objekt-orientert?
 @snapend
 
 ---
 @snap[north]
-# Hvorfor Kotlin?
+## Hvorfor Kotlin?
 @snapend
 
 ---
 @snap[north]
-# Hva brukes Kotlin til?
+## Hva brukes Kotlin til?
 @snapend
 
 ---
 @snap[north]
-# Koltin i Systek
+## Koltin i Systek
 @snapend
 
 ---
 @snap[north]
-# Oslo Kotlin meetup
+## Oslo Kotlin meetup
 @snapend
