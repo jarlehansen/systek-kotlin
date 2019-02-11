@@ -2,11 +2,11 @@
 
 ---
 
-![](assets/img/kart1.png?size=100%)
+![](assets/img/kart1.png?&size=cover)
 
 ---
 
-![](assets/img/kart2.png)
+![](assets/img/kart2.png?&size=cover)
 
 ## Add Some Slide Candy
 
