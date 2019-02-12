@@ -17,3 +17,10 @@
 .meetup img {
   width: 38% !important;
 }
+
+.meetup h4 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  color: black
+}
