@@ -25,9 +25,9 @@
 **Stack overflow survey 2018**
 @snapend
 
----
-
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
+
+---
 
 @snap[span-100]
 ### Hva brukes Kotlin til?
