@@ -14,11 +14,11 @@
 
 
 ---
-@snap[span-100]
+@snap[northspan-100]
 ### Funksjonelt / objekt-orientert?
 @snapend
 **`o.f()`**
-<br>
+
 **`f(o)`**
 
 @snap[text-05]
