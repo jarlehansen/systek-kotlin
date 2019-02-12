@@ -30,7 +30,7 @@
 }
 
 .reveal .meetup .north-east h3 {
-  right: 10px;
+  right: 10px !important;
 }
 
 .reveal .meetup .north-east, .south-east h3 {
