@@ -4,9 +4,7 @@
 
 ---?image=assets/img/kart2.png&size=75% auto
 
----
-
-![jetbrains](https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4)
+----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&size=cover
 
 ---
 @snap[north span-100]
