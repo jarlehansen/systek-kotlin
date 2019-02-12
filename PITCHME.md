@@ -46,10 +46,12 @@
 ---
 
 @snap[north-west sidebar meetup]
+Android
 ![Android](assets/img/kotlin-meetup1.jpg)
 @snapend
 
 @snap[north-east sidebar meetup]
+Testing
 ![Testing](assets/img/kotlin-meetup3.jpg)
 @snapend
 
