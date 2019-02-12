@@ -22,6 +22,11 @@
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
 
 ---
+
+---?image=assets/img/most-loved.jpg&size=contain
+
+---
+
 @snap[span-100]
 ### Hva brukes Kotlin til?
 @snapend
