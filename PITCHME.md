@@ -62,6 +62,10 @@
 @snapend
 
 ---
+
+<iframe class="stretch" data-src="https://www.meetup.com/meetup-group-nWeRbyMu/"></iframe>
+
+---
 @snap[span-100]
 ### Referanser
 @snapend
