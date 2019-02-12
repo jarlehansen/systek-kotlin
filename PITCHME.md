@@ -19,7 +19,7 @@
 ### Hvorfor Kotlin?
 @snapend
 
----?image=assets/img/hvorfor-kotlin.png
+---?image=assets/img/hvorfor-kotlin.jpg
 
 ---
 @snap[span-100]
