@@ -19,6 +19,8 @@
 ### Hvorfor Kotlin?
 @snapend
 
+---?image=assets/img/hvorfor-kotlin.png
+
 ---
 @snap[span-100]
 ### Hva brukes Kotlin til?
