@@ -46,22 +46,18 @@
 ---
 
 @snap[north-west meetup]
-### Android
 ![](assets/img/kotlin-meetup1.jpg)
 @snapend
 
 @snap[north-east meetup]
-### Testing
 ![](assets/img/kotlin-meetup3.jpg)
 @snapend
 
 @snap[south-west meetup]
-### Hadi Hariri
 ![](assets/img/kotlin-meetup2.jpg)
 @snapend
 
 @snap[south-east meetup]
-### Native
 ![](assets/img/kotlin-meetup4.jpg)
 @snapend
 
