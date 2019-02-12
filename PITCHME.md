@@ -44,19 +44,19 @@
 @snapend
 
 @snap[north-west sidebar meetup]
-![](assets/img/kotlin-meetup1.jpeg)
+![](assets/img/kotlin-meetup1.jpg)
 @snapend
 
 @snap[south-west sidebar meetup]
-![](assets/img/kotlin-meetup2.jpeg)
+![](assets/img/kotlin-meetup2.jpg)
 @snapend
 
 @snap[north-east sidebar meetup]
-![](assets/img/kotlin-meetup3.jpeg)
+![](assets/img/kotlin-meetup3.jpg)
 @snapend
 
 @snap[south-east sidebar meetup]
-![](assets/img/kotlin-meetup4.jpeg)
+![](assets/img/kotlin-meetup4.jpg)
 @snapend
 
 ---
