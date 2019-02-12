@@ -1,4 +1,4 @@
-![](assets/img/kotlin-logo2.png)
+---?image=assets/img/kotlin-logo2.png&size=cover
 
 ---?image=assets/img/kart1.png&size=75% auto
 
