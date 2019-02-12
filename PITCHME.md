@@ -11,7 +11,8 @@
 
 * Arbeidet med Kotlin startet i 2010 hos JetBrains
 * 1.0 versjonen ble sluppet i starten av 2016
-
+* Kotlin har fått navnet etter en øy utenfor St. Petersburg
+* En av de viktigste prinsippene er at det fungerer med Java så sømløst som mulig
 
 ---
 @snap[north span-100]
