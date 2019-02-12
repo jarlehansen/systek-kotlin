@@ -4,7 +4,7 @@
 
 ---?image=assets/img/kart2.png&size=75% auto
 
-----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&size=50%&loop=true&muted=true
+----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&loop=true&muted=true&size=75% auto
 
 ---
 @snap[north span-100]
