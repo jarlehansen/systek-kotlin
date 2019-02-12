@@ -23,7 +23,7 @@
 
 ---?image=assets/img/most-loved.jpg&size=contain
 
-@snap[south text-black]
+@snap[south text-black span-100]
 #### Stack overflow survey 2018
 @snapend
 
