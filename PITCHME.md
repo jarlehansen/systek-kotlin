@@ -21,8 +21,6 @@
 
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
 
----
-
 ---?image=assets/img/most-loved.jpg&size=contain
 
 #### Stack overflow survey 2018
