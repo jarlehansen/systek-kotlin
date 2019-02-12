@@ -39,7 +39,7 @@
 @snapend
 
 ---
-@snap[span-100]
+@snap[north span-100]
 ### Oslo Kotlin meetup
 @snapend
 
