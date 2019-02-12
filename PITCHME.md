@@ -46,7 +46,7 @@
 ---
 
 @snap[north-west meetup]
-Android<br>
+### Android
 ![](assets/img/kotlin-meetup1.jpg)
 @snapend
 
