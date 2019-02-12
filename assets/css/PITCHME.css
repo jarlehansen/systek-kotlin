@@ -9,5 +9,6 @@
 }
 
 .reveal .slide-background video {
-  width: 95% !important;
+  width: 90% !important;
+  text-align: center;
 }
