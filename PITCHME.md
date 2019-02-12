@@ -35,7 +35,7 @@
 
 ---
 @snap[span-100]
-### Koltin i Systek
+### Kotlin i Systek
 @snapend
 
 ---
