@@ -25,18 +25,10 @@
   font-weight: 200 !important;
 }
 
-.reveal .meetup .north-west h3 {
+.reveal .meetup .north-west, .south-west h3 {
   left: 10px;
 }
 
-.reveal .meetup .south-west h3 {
-  left: 10px;
-}
-
-.reveal .meetup .north-east h3 {
-  right: 10px;
-}
-
-.reveal .meetup .south-east h3 {
+.reveal .meetup .north-east, .south-east h3 {
   right: 10px;
 }
