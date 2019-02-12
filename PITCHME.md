@@ -39,9 +39,11 @@
 @snapend
 
 ---
-@snap[north span-100]
+@snap[span-100]
 ### Oslo Kotlin meetup
 @snapend
+
+---
 
 @snap[north-west sidebar meetup]
 ![Android](assets/img/kotlin-meetup1.jpg)
