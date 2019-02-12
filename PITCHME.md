@@ -14,7 +14,7 @@
 
 
 ---
-@snap[northspan-100]
+@snap[north span-100]
 ### Funksjonelt / objekt-orientert?
 @snapend
 **`o.f()`**
