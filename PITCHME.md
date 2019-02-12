@@ -4,7 +4,7 @@
 
 ---?image=assets/img/kart2.png&size=75% auto
 
-----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&size=90%&loop=true&muted=true
+----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&size=80% auto&loop=true&muted=true
 
 ---
 @snap[north span-100]
@@ -13,10 +13,6 @@
 * **`f(o)`**
 <br>
 * **`o.f()`**
-
-@snap[text-05]
-
-@snapend
 
 ---
 @snap[span-100]
