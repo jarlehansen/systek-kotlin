@@ -14,6 +14,8 @@
 * Har fått navnet etter en øy utenfor St. Petersburg
 * En av de viktigste prinsippene er at det fungerer med Java så sømløst som mulig
 
+![jetbrains](https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4)
+
 ---
 @snap[north span-100]
 ### Funksjonelt / objekt-orientert?
