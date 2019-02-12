@@ -43,6 +43,10 @@
 ### Oslo Kotlin meetup
 @snapend
 
+@snap[north-west]
+![](assets/img/kotlin-meetup1.jpeg)
+@snapend
+
 ---
 @snap[span-100]
 ### Referanser
