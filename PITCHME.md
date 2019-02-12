@@ -10,9 +10,9 @@
 @snap[north span-100]
 ### Funksjonelt / objekt-orientert?
 @snapend
-* **`f(o)`**
+**`f(o)`**
 <br>
-* **`o.f()`**
+**`o.f()`**
 
 ---
 @snap[span-100]
