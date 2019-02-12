@@ -47,6 +47,18 @@
 ![](assets/img/kotlin-meetup1.jpeg)
 @snapend
 
+@snap[north-east meetup]
+![](assets/img/kotlin-meetup2.jpeg)
+@snapend
+
+@snap[south-west meetup]
+![](assets/img/kotlin-meetup3.jpeg)
+@snapend
+
+@snap[south-east meetup]
+![](assets/img/kotlin-meetup4.jpeg)
+@snapend
+
 ---
 @snap[span-100]
 ### Referanser
