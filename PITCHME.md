@@ -43,19 +43,19 @@
 ### Oslo Kotlin meetup
 @snapend
 
-@snap[north sidebar meetup]
+@snap[north-west sidebar meetup]
 ![](assets/img/kotlin-meetup1.jpeg)
 @snapend
 
-@snap[north sidebar meetup]
+@snap[south-west sidebar meetup]
 ![](assets/img/kotlin-meetup2.jpeg)
 @snapend
 
-@snap[south sidebar meetup]
+@snap[north-east sidebar meetup]
 ![](assets/img/kotlin-meetup3.jpeg)
 @snapend
 
-@snap[south sidebar meetup]
+@snap[south-east sidebar meetup]
 ![](assets/img/kotlin-meetup4.jpeg)
 @snapend
 
