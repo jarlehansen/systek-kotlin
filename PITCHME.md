@@ -45,21 +45,22 @@
 
 ---
 
-@snap[north sidebar meetup]
-![Android](assets/img/kotlin-meetup1.jpg)
+@snap[north-west meetup]
+Android<br>
+![](assets/img/kotlin-meetup1.jpg)
 @snapend
 
-@snap[north-east sidebar meetup]
+@snap[north-east meetup]
 Testing<br>
 ![](assets/img/kotlin-meetup3.jpg)
 @snapend
 
-@snap[south-west sidebar meetup]
+@snap[south-west meetup]
 Hadi Hariri<br>
 ![](assets/img/kotlin-meetup2.jpg)
 @snapend
 
-@snap[south-east sidebar meetup]
+@snap[south-east meetup]
 Native<br>
 ![](assets/img/kotlin-meetup4.jpg)
 @snapend
