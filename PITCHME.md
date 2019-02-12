@@ -6,7 +6,7 @@
 
 ---
 
-![jetbrains](https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4?size=cover)
+![jetbrains](https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4)
 
 ---
 @snap[north span-100]
