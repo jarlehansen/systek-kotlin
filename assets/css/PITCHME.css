@@ -30,13 +30,13 @@
 }
 
 .reveal section .technipfmc img {
-  width: 54%;
-}
-
-.reveal section .nrk img {
   width: 53%;
 }
 
+.reveal section .nrk img {
+  width: 54%;
+}
+
 .reveal section .skatteetaten img {
-  width: 32%;
+  width: 30%;
 }

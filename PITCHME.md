@@ -7,27 +7,6 @@
 ----?video=https://video.twimg.com/tweet_video/DyUYJpkXQAAoWnE.mp4&loop=true&muted=true
 
 ---
-@snap[north span-100]
-### Funksjonelt / objekt-orientert?
-@snapend
-**`f(o)`**
-<br>
-**`o.f()`**
-
----
-@snap[north span-100]
-### MockWebServer eksempel
-@snapend
-
-1. [Java](https://github.com/square/okhttp/tree/master/mockwebserver#example)
-2. [Kotlin oppsett](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt#L55)
-  * Extension function
-  * Null safety
-  * Range
-  * Default argument
-3. [Kotlin bruk](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/boober/UserSettingsServiceTest.kt#L32)
-
----
 @snap[span-100]
 ### Hvorfor Kotlin?
 @snapend
@@ -49,6 +28,33 @@
 ---?image=assets/img/kotlin-usage.png&size=cover
 
 ---
+@snap[span-100]
+### Kodeeksempler
+@snapend
+---
+
+---
+@snap[north span-100]
+### Funksjonelt / objekt-orientert?
+@snapend
+**`f(o)`**
+<br>
+**`o.f()`**
+
+---
+@snap[north span-100]
+### MockWebServer eksempel
+@snapend
+
+1. [Java](https://github.com/square/okhttp/tree/master/mockwebserver#example)
+2. [Kotlin oppsett](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt#L55)
+  * Extension function
+  * Null safety
+  * Range
+  * Default argument
+3. [Kotlin bruk](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/boober/UserSettingsServiceTest.kt#L32)
+
+---
 @snap[north span-100]
 ### Kotlin i Systek
 @snapend
@@ -64,7 +70,6 @@
 @snap[east logos skatteetaten]
 ![](assets/img/skatteetaten-logo.png)
 @snapend
-
 
 ---
 @snap[span-100]
