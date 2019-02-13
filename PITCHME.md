@@ -16,10 +16,9 @@
 
 ---
 @snap[north span-100]
-### Eksempel
+### MockWebServer eksempel
 @snapend
 
-**MockWebServer**
 1. [Java](https://github.com/square/okhttp/tree/master/mockwebserver#example)
 2. [Kotlin](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt)
   * Extension function
