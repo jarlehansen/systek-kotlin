@@ -15,6 +15,15 @@
 **`o.f()`**
 
 ---
+
+<iframe class="stretch" data-src="https://github.com/square/okhttp/tree/master/mockwebserver#example"></iframe>
+
+---
+
+<iframe class="stretch" data-src="https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt"></iframe>
+
+
+---
 @snap[span-100]
 ### Hvorfor Kotlin?
 @snapend
