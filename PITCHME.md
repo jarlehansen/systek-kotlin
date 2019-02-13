@@ -27,7 +27,6 @@
   * Range
   * Default argument
 
-
 ---
 @snap[span-100]
 ### Hvorfor Kotlin?
