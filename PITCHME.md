@@ -34,8 +34,6 @@
 ![](assets/img/talk-is-cheap-show-me-the-code.jpg)
 
 ---
-
----
 @snap[north span-100]
 ### Funksjonelt / objekt-orientert?
 @snapend
