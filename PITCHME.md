@@ -40,13 +40,7 @@
 
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
 
----
-
-@snap[span-100]
-### Hva brukes Kotlin til?
-@snapend
-
-![](assets/img/kotlin-usage.png)
+---?image=assets/img/kotlin-usage.png&size=cover
 
 ---
 @snap[north span-100]
