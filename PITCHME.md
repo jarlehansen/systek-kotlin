@@ -92,6 +92,7 @@
 ### Referanser
 @snapend
 
+* [Kotlin in action](https://www.amazon.com/Kotlin-Action-Dmitry-Jemerov/dp/1617293296)
 * [FP vs OO](https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html)
 * [Object Oriented Programming vs. Functional Programming](https://www.codenewbie.org/blogs/object-oriented-programming-vs-functional-programming)
 * [What We Learned About Kotlin’s Growth This Year](https://thenewstack.io/what-we-learned-about-kotlins-growth-this-year/)
