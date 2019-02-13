@@ -30,9 +30,9 @@
 ---?image=assets/img/kotlin-usage.png&size=cover
 
 ---
-@snap[span-100]
-### Kodeeksempler
-@snapend
+
+![](assets/img/talk-is-cheap-show-me-the-code.jpg)
+
 ---
 
 ---
