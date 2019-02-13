@@ -38,6 +38,12 @@
 ### Kotlin i Systek
 @snapend
 
+![](assets/img/technipfmc-logo.png)
+
+![](assets/img/nrk-logo.gif)
+
+![](assets/img/skatteetaten-logo.png)
+
 ---
 @snap[span-100]
 ### Oslo Kotlin meetup
