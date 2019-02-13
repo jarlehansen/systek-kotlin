@@ -20,11 +20,12 @@
 @snapend
 
 1. [Java](https://github.com/square/okhttp/tree/master/mockwebserver#example)
-2. [Kotlin](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt)
+2. [Kotlin oppsett](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt#L55)
   * Extension function
   * Null safety
   * Range
   * Default argument
+3. [Kotlin bruk](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/boober/UserSettingsServiceTest.kt#L32)
 
 ---
 @snap[span-100]
