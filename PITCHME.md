@@ -21,7 +21,12 @@
 
 
 * [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver#example)
-* [Kotlin version](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt)
+* [Kotlin-ifisert](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt)
+  * Extension function
+  * Null safety
+  * Range
+  * Default argument
+
 
 ---
 @snap[span-100]
