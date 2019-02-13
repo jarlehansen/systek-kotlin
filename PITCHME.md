@@ -17,7 +17,7 @@
 **Stack overflow survey 2018**
 @snapend
 
-
+---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
 
