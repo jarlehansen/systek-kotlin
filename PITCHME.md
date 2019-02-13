@@ -46,6 +46,8 @@
 ### Hva brukes Kotlin til?
 @snapend
 
+![](assets/img/kotlin-usage.png)
+
 ---
 @snap[north span-100]
 ### Kotlin i Systek
