@@ -38,15 +38,15 @@
 ### Kotlin i Systek
 @snapend
 
-@snap[logos technipfmc]
+@snap[west logos technipfmc]
 ![](assets/img/technipfmc-logo.png)
 @snapend
 
-@snap[logos nrk]
+@snap[midpoint logos nrk]
 ![](assets/img/nrk-logo.gif)
 @snapend
 
-@snap[logos skatteetaten]
+@snap[east logos skatteetaten]
 ![](assets/img/skatteetaten-logo.png)
 @snapend
 
