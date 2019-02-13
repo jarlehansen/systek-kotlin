@@ -34,7 +34,7 @@
 @snapend
 
 ---
-@snap[span-100]
+@snap[north span-100]
 ### Kotlin i Systek
 @snapend
 
