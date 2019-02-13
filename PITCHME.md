@@ -16,12 +16,8 @@
 
 ---
 
-<iframe class="stretch" data-src="https://github.com/square/okhttp/tree/master/mockwebserver#example"></iframe>
-
----
-
-<iframe class="stretch" data-src="https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt"></iframe>
-
+* [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver#example)
+* [Kotlin version](https://github.com/Skatteetaten/gobo/blob/master/src/test/kotlin/no/skatteetaten/aurora/gobo/integration/mockWebServer.kt)
 
 ---
 @snap[span-100]
