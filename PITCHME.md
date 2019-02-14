@@ -11,6 +11,19 @@
 ### Hvorfor Kotlin?
 @snapend
 
+* Fungerer godt med Java
+  * Java -> Kotlin
+  * Kotlin -> Java
+* Blir mye mindre kode for å oppnå det samme
+  * *Rough estimates indicate approximately a 40% cut in the number of lines of code* (JetBrains)
+* Nyttige features som:
+  * Null safety
+  * Extension functions
+  * Data classes
+* Vedlig god verktøy støtte
+
+---
+
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain

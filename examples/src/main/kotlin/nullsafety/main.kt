@@ -5,8 +5,12 @@ class A(val b: B?)
 
 fun main() {
 
-    val value = "abc"
+    var value = "abc"
+
+
 
     val a = A(B(null))
+
+    // if(a != null && a.b != null && a.b.c != null)
 
 }
