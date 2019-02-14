@@ -20,7 +20,7 @@
   * Null safety
   * Extension functions
   * Data classes
-* Vedlig god verktøy støtte
+* God verktøy støtte
 
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
