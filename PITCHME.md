@@ -22,8 +22,6 @@
   * Data classes
 * Vedlig god verktøy støtte
 
----
-
 ---?image=assets/img/kotlin-github.jpg&size=contain
 ---?image=assets/img/kotlin-digi.jpg&size=contain
 ---?image=assets/img/hvorfor-kotlin.jpg&size=contain
